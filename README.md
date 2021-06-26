@@ -1,6 +1,6 @@
 # J&J Redirect
 
-Mit diesem Code kann ein Docker Container erstellt werden, mit dem man auf eine URL weiterleiten kann. You can find the corresponding image [here](https://hub.docker.com/r/jjideenschmiede/jj-redirect) in Docker Hub.
+This code can be used to create a Docker container that can be used to redirect to a URL. You can find the corresponding image [here](https://hub.docker.com/r/jjideenschmiede/jj-redirect) in Docker Hub.
 
 ## Start container
 
