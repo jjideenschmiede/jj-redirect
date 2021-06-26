@@ -1,6 +1,6 @@
 //**********************************************************
 //
-// Copyright (C) 2018 - 2021 J&J Ideenschmiede UG (haftungsbeschränkt) <info@jj-ideenschmiede.de>
+// Copyright (C) 2018 - 2021 J&J GmbH <info@jj-ideenschmiede.de>
 //
 // This file is part of jj-redirect.
 // All code may be used. Feel free and maybe code something better.
