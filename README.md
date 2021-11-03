@@ -1,6 +1,6 @@
 # J&J Redirect
 
-[![Go](https://github.com/jjideenschmiede/jj-redirect/actions/workflows/go.yml/badge.svg)](https://github.com/jjideenschmiede/jj-redirect/actions/workflows/go.yml) [![Docker Image CI](https://github.com/jjideenschmiede/jj-redirect/actions/workflows/docker-image.yml/badge.svg)](https://github.com/jjideenschmiede/jj-redirect/actions/workflows/docker-image.yml)
+[![Go](https://github.com/jjideenschmiede/jj-redirect/actions/workflows/go.yml/badge.svg)](https://github.com/jjideenschmiede/jj-redirect/actions/workflows/go.yml) [![Docker Image CI](https://github.com/jjideenschmiede/jj-redirect/actions/workflows/docker-image.yml/badge.svg)](https://github.com/jjideenschmiede/jj-redirect/actions/workflows/docker-image.yml) [![Docker Hub](https://img.shields.io/docker/pulls/jjdevelopment/jj-redirect.svg)](https://hub.docker.com/r/jjdevelopment/jj-redirect)
 
 This code can be used to create a Docker container that can be used to redirect to a URL. You can find the corresponding image [here](https://hub.docker.com/r/jjdevelopment/jj-redirect) in Docker Hub.
 
